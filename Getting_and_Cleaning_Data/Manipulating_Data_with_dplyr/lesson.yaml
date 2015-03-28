@@ -1,9 +1,9 @@
 - Class: meta
   Course: Getting and Cleaning Data
   Lesson: Manipulating Data with dplyr
-  Author: Nick Carchedi
+  Author: Vibhas Trivedi
   Type: Coursera
-  Organization: JHU Biostat
+  Organization: TCS
   Version: 2.2.12
 
 - Class: text
